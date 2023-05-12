@@ -1,4 +1,4 @@
-# https://pgexercises.com
+# [pgexercises.com](https://pgexercises.com)
 
 ## 1. Simple SQL Queries - basic
 
